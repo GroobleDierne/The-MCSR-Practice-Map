@@ -20,4 +20,4 @@ scoreboard objectives add reset minecraft.used:minecraft.egg
 scoreboard objectives add bed_place minecraft.used:minecraft.white_bed
 scoreboard objectives add sneaking minecraft.custom:minecraft.sneak_time
 scoreboard objectives add time_since_death minecraft.custom:minecraft.time_since_death
-scoreboard players set *threshold time_since_death
+scoreboard players set *threshold time_since_death 10
