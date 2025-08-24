@@ -29,6 +29,11 @@ scoreboard players set @a[tag=!firstJoin] catMode 1
 scoreboard players set @a[tag=!firstJoin] catCoin 0
 scoreboard players set @a[tag=!firstJoin] petType 1
 
+# Zero Practice Compatibility
+
+execute if entity @e[tag=!firstJoin] run schedule function practice:dev/initial_setup 1t
+execute if entity @e[tag=!firstJoin] run schedule function practice:dev/load_defaults 1t
+
 xp set @a[tag=!firstJoin] 0 levels
 xp set @a[tag=!firstJoin] 0 points
 
@@ -42,8 +47,3 @@ tag @a add firstJoin
 tag @a add sound
 tag @a add layout
 execute as @a if score @s spawnCheck matches 0 run schedule function lobby:first_join 2t
-
-# Zero Practice Compatibility
-
-function practice:dev/initial_setup
-function practice:dev/load_defaults

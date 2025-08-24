@@ -1,5 +1,5 @@
 # load default settings
-data modify storage practice:gui pages[1].entries set from storage practice:gui pages[1].defaults
+#data modify storage practice:gui pages[1].entries set from storage practice:gui pages[1].defaults # TODO waiting for upstream fix
 
 execute store result score location settings run data get storage practice:gui pages[1].entries[{tag:{index:0b}}].value
 execute store result score direction settings run data get storage practice:gui pages[1].entries[{tag:{index:1b}}].value
