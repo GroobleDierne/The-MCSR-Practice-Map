@@ -1,0 +1,1 @@
+execute positioned 125 107 23 unless entity @e[type=tnt, distance=..8] run function fort:blaze/blaze_start

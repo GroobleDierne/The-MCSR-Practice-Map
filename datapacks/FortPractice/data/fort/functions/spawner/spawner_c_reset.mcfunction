@@ -1,0 +1,17 @@
+replaceitem block 120 113 6 container.9 red_stained_glass_pane 1
+replaceitem block 120 113 6 container.10 red_stained_glass_pane 1
+replaceitem block 120 113 6 container.11 red_stained_glass_pane 1
+replaceitem block 120 113 6 container.12 red_stained_glass_pane 1
+replaceitem block 120 113 6 container.13 red_stained_glass_pane 1
+replaceitem block 120 113 6 container.14 red_stained_glass_pane 1
+replaceitem block 120 113 6 container.15 red_stained_glass_pane 1
+replaceitem block 120 113 6 container.16 red_stained_glass_pane 1
+replaceitem block 120 113 6 container.17 red_stained_glass_pane 1
+replaceitem block 120 113 6 container.19 red_stained_glass_pane 1
+replaceitem block 120 113 6 container.20 red_stained_glass_pane 1
+replaceitem block 120 113 6 container.21 red_stained_glass_pane 1
+replaceitem block 120 113 6 container.22 red_stained_glass_pane 1
+replaceitem block 120 113 6 container.23 red_stained_glass_pane 1
+replaceitem block 120 113 6 container.24 red_stained_glass_pane 1
+replaceitem block 120 113 6 container.25 red_stained_glass_pane 1
+replaceitem block 120 113 6 container.26 red_stained_glass_pane 1

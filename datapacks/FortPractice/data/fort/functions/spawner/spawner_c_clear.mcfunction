@@ -1,0 +1,17 @@
+replaceitem block 120 113 6 container.9 air 1
+replaceitem block 120 113 6 container.10 air 1
+replaceitem block 120 113 6 container.11 air 1
+replaceitem block 120 113 6 container.12 air 1
+replaceitem block 120 113 6 container.13 air 1
+replaceitem block 120 113 6 container.14 air 1
+replaceitem block 120 113 6 container.15 air 1
+replaceitem block 120 113 6 container.16 air 1
+replaceitem block 120 113 6 container.17 air 1
+replaceitem block 120 113 6 container.19 air 1
+replaceitem block 120 113 6 container.20 air 1
+replaceitem block 120 113 6 container.21 air 1
+replaceitem block 120 113 6 container.22 air 1 
+replaceitem block 120 113 6 container.23 air 1
+replaceitem block 120 113 6 container.24 air 1
+replaceitem block 120 113 6 container.25 air 1
+replaceitem block 120 113 6 container.26 air 1
