@@ -13,6 +13,7 @@ execute store result score randomize settings run data get storage practice:gui 
 execute store result score iframe settings run data get storage practice:gui pages[1].entries[{tag:{index:9b}}].value
 execute store result score show_nodes settings run data get storage practice:gui pages[1].entries[{tag:{index:10b}}].value
 execute store result score pearl_tracker settings run data get storage practice:gui pages[1].entries[{tag:{index:11b}}].value
+scoreboard players set disable_dragon settings 0
 
 # enable all towers
 function practice:gui/pages/home/enable_all_towers
@@ -26,4 +27,4 @@ scoreboard objectives setdisplay sidebar
 function practice:level/repair
 function practice:reset
 
-tellraw @a [{"text":"Default Values Loaded","color":"dark_red"}]
+tellraw @a[level=3] [{"text":"Default Values Loaded","color":"dark_red"}]
